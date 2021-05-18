@@ -5,7 +5,7 @@ WIP
 Welcome to my profile! <br/>
 My name is Jonathan. I'm a very apassionate developer from Mexico.
 <br/>
-Actually i'm a Fullstack jr. developer at **[MTI Consultoria] (http://www.mticonsultoria.com/)**. I have +2 years of profesional experience
+Actually i'm a Fullstack jr. developer at [MTI Consultoria](http://www.mticonsultoria.com/). I have +2 years of profesional experience
 <br/>
 ## Stack used:
 <p>
@@ -17,17 +17,21 @@ Actually i'm a Fullstack jr. developer at **[MTI Consultoria] (http://www.mticon
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="GIT" src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap-5849BE?style=flat&logo=bootstrap&logoColor=white" />
+    <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+    <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
-<br/>
-<br/>
 
 I'm also are a linux user, actually i'm trying:
 <br/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/--73BA25?style=plastic&logo=opensuse&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/--1d99f3?style=plastic&logo=kde&logoColor=white" style="display: inline-block"/>
+<br/>
+For profesional use i have experience as a jr. sysadmin with CentOS.
 
 
 ![DevLomoSE's github stats](https://github-readme-stats.vercel.app/api?username=DevLomoSE&show_icons=true&theme=material-palenight&count_private=true)
+
+Keep in touch with me on [LinkedIn](https://www.linkedin.com/in/jonathan-cgg/)
 
 <!--
 <br/>
