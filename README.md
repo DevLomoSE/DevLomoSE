@@ -2,20 +2,22 @@ WIP
 ### Hi there, I'm DevLomoSE 👋
 
 
-Welcome to my profile!
+Welcome to my profile! <br/>
 My name is Jonathan. I'm a very apassionate developer from Mexico.
-
+<br/>
 Actually i'm a Fullstack jr. developer at [MTI Consultoria] (http://www.mticonsultoria.com/). I have +2 years of profesional experience
+<br/>
 ## Stack used:
-<img alt="VUEjs" src="https://img.shields.io/badge/VueJS-4fc08dy?style=flat&logo=vuetify&logoColor=white" />
-<img alt="vuetify" src="https://img.shields.io/badge/vuetify-1867c0?style=flat-square&logo=vuetify&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="Laravel" src="https://img.shields.io/badge/Laravel-CB3837?style=flat&logo=laravel&logoColor=white" />
-<img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="GIT" src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap-5849BE?style=flat&logo=bootstrap&logoColor=white" />
-
+<p>
+    <img alt="VUEjs" src="https://img.shields.io/badge/VueJS-4fc08dy?style=flat&logo=vuetify&logoColor=white" />
+    <img alt="vuetify" src="https://img.shields.io/badge/vuetify-1867c0?style=flat-square&logo=vuetify&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-CB3837?style=flat&logo=laravel&logoColor=white" />
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="GIT" src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Boostrap-5849BE?style=flat&logo=bootstrap&logoColor=white" />
+</p>
 <br/>
 <br/>
 
