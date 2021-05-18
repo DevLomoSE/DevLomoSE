@@ -5,7 +5,7 @@ WIP
 Welcome to my profile! <br/>
 My name is Jonathan. I'm a very apassionate developer from Mexico.
 <br/>
-Actually i'm a Fullstack jr. developer at [MTI Consultoria] (http://www.mticonsultoria.com/). I have +2 years of profesional experience
+Actually i'm a Fullstack jr. developer at **[MTI Consultoria] (http://www.mticonsultoria.com/)**. I have +2 years of profesional experience
 <br/>
 ## Stack used:
 <p>
