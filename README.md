@@ -13,11 +13,63 @@ Im currently work as Systems Engineer at [TCS](https://www.tcs.com/)
 
 ### Skills
 
-<p align="left"><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a></p>
+Languajes
+<p>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+</p>
 
-### Socials<p align="left"> <a href="https://www.dev.to/devlomose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/DevLomoSE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-cgg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+Technologies
+<p>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+    <img alt="K3s" src="https://img.shields.io/badge/K3s-FFC61C?style=flat&logo=k3s&logoColor=black" />
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+    <img alt="Sonarqube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
-### Badges
+Frameworks
+<p>
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-CB3837?style=flat&logo=laravel&logoColor=white" />
+    <img alt="VUEjs" src="https://img.shields.io/badge/VueJS-4fc08dy?style=flat&logo=vue.js&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+</p>
+
+Tools
+<p>
+    <img alt="GIT" src="https://img.shields.io/badge/Git-orange?style=flat&logo=git&logoColor=white" />
+    <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+    <img alt="NGINX" src="https://img.shields.io/badge/NGNIX-009639?style=flat&logo=nginx&logoColor=white" />
+</p>
+
+I'm also linux user and currently using
+<br/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/openSUSE-73BA25?style=plastic&logo=opensuse&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Pop_OS-48B9C7?style=plastic&logo=pop!_os&logoColor=white" style="display: inline-block"/>
+<br/>
+
+I have professional experience as sysadmin with CentOS.
+<img alt="Bootstrap" src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=centos&logoColor=white" style="display: inline-block"/>
+<br/>
+
+All my personal infrastructure runs in a [![Raspbery](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=raspberry%20pi&logoColor=white")](https://www.raspberrypi.org/)
+cluster.
+<br/>
+
+### Socials
+<p align="left"> <a href="https://www.dev.to/devlomose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/DevLomoSE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-cgg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+## Badges
 
 <b>My GitHub Stats</b>
 
