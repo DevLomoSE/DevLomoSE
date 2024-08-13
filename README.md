@@ -8,7 +8,7 @@ Im currently work as Software Engineer.
 * 🌍  I'm based in Mexico
 * ✉️  You can contact me at [jonathancggj@hotmail.com](mailto:jonathancggj@hotmail.com)
 * 🚀  I'm currently working on Microservices projects (AirLomo, Syschool, LStore)
-* 🧠  I'm learning Java 11, Design Patterns
+* 🧠  I'm learning Java 21, Design Patterns, Software Architecture
 * 🤝  I'm open to collaborating on any kind of projects
 
 ### Skills
